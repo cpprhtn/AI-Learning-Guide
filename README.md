@@ -38,8 +38,12 @@ Java, C++, Rust 등의 타 언어로도 AI를 구현할 수 있으나, 새로 �
 #### Website
 - Sung Kim 모두를 위한 머신러닝/딥러닝 강의 [링크](http://hunkim.github.io/ml/)
 	- 모두를 위한 딥러닝 강좌 시즌 1 [링크](https://youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) [코드](https://github.com/hunkim/DeepLearningZeroToAll)
+    - 모두를 위한 RL강좌 [링크](https://youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
+- Andrew Ng Supervised Machine Learning: Regression and Classification [링크](https://www.coursera.org/learn/machine-learning)
 
 - CS231n(Convolutional Neural Networks for Visual Recognition) [링크](https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
+- CS329S(Machine Learning Systems Design) [링크](https://youtu.be/OEiNnfdxBRE)
 
 
 
@@ -74,3 +78,5 @@ Java, C++, Rust 등의 타 언어로도 AI를 구현할 수 있으나, 새로 �
 2. What are the important factors in the approach of this study?
 3. Can you use this paper yourself? 
 4. What other references would you like to refer to?
+
+#### Official Paper
