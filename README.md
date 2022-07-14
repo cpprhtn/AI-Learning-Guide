@@ -2,106 +2,44 @@
 
 [The English version](./English/README.md)
 
-## Before You read this,
-ÀÎ°øÁö´ÉÀ» Ã³À½ Á¢ÇÏ´Â ºÐµéÀ» À§ÇØ¼­ ¸¸µé¾îº¸´Â ÆäÀÌÁöÀÔ´Ï´Ù.
+## Before You read this
+ì¸ê³µì§€ëŠ¥ì„ ì²˜ìŒ ì ‘í•˜ëŠ” ë¶„ë“¤ì„ ìœ„í•´ì„œ ë§Œë“¤ì–´ë³´ëŠ” íŽ˜ì´ì§€ìž…ë‹ˆë‹¤.
 
-ÇÊÀÚÀÇ °³ÀÎÀûÀÎ °æÇèÀ» ±â¹ÝÀ¸·Î ÀÛ¼ºÇÏ¹Ç·Î ¾Æ·¡ ÀûÈ÷´Â ±ÛÀÌ Á¤´äÀº ¾Æ´Õ´Ï´Ù.
-
-
-## Beginner Level
-
+í•„ìžì˜ ê°œì¸ì ì¸ ê²½í—˜ì„ ê¸°ë°˜ìœ¼ë¡œ ìž‘ì„±í•˜ë¯€ë¡œ ì•„ëž˜ ì ížˆëŠ” ê¸€ì´ ì •ë‹µì€ ì•„ë‹™ë‹ˆë‹¤.
 
 ### First. Study Math
+ë§Žì€ ì‚¬ëžŒë“¤ì´ "ì–´ë–»ê²Œ ì‹œìž‘í•´ì•¼í•˜ë‚˜ìš”?" ë¼ëŠ” ì§ˆë¬¸ì„ ë§Žì´ë“¤ ë‚¨ê¹ë‹ˆë‹¤.
 
-¸¹Àº »ç¶÷µéÀÌ "¾î¶»°Ô ½ÃÀÛÇØ¾ßÇÏ³ª¿ä?" ¶ó´Â Áú¹®À» ¸¹ÀÌµé ³²±é´Ï´Ù.
+ì œê°€ ì²˜ìŒì— í•´ì£¼ëŠ” ë‹µë³€ìœ¼ë¡œëŠ” "ìˆ˜í•™ì„ ê³µë¶€í•´ë¼" ìž…ë‹ˆë‹¤.
 
-Á¦°¡ Ã³À½¿¡ ÇØÁÖ´Â ´äº¯À¸·Î´Â "¼öÇÐÀ» °øºÎÇØ¶ó" ÀÔ´Ï´Ù.
+AIëŠ” ì½”ë”©ì´ ê¸°ë°˜ì´ ì•„ë‹ˆë¼ ìˆ˜í•™ì´ ê¸°ë°˜ì´ê¸° ë•Œë¬¸ìž…ë‹ˆë‹¤.
 
-AI´Â ÄÚµùÀÌ ±â¹ÝÀÌ ¾Æ´Ï¶ó ¼öÇÐÀÌ ±â¹ÝÀÌ±â ¶§¹®ÀÔ´Ï´Ù.
+ì—¬ëŸ¬ë¶„ë“¤ì´ í•˜ê²Œë  ì½”ë”©ì€ ìˆ˜í•™ì„ ëŒ€ì‹  ì—°ì‚°í•´ì£¼ë„ë¡ í•˜ëŠ” ê¸°ê³„ì¼ ë¿ìž…ë‹ˆë‹¤.
 
-¿©·¯ºÐµéÀÌ ÇÏ°ÔµÉ ÄÚµùÀº ¼öÇÐÀ» ´ë½Å ¿¬»êÇØÁÖµµ·Ï ÇÏ´Â ±â°èÀÏ »ÓÀÔ´Ï´Ù.
+ë²”ìœ„ëŠ” ì•„ëž˜ì™€ ê°™ë‹¤ê³  ë³¼ ìˆ˜ ìžˆìŠµë‹ˆë‹¤.
 
-¹üÀ§´Â ¾Æ·¡¿Í °°´Ù°í º¼ ¼ö ÀÖ½À´Ï´Ù.
+- í†µê³„
 
-- Åë°è
+- ì„ í˜•ëŒ€ìˆ˜í•™
 
-- ¼±Çü´ë¼öÇÐ
+- ë¯¸ì ë¶„
 
-- ¹ÌÀûºÐ
+AIë¥¼ ê³µë¶€í•˜ëŠ” ì‚¬ëžŒë“¤ì´ ê°€ìž¥ ë¬´ì„œì›Œí•˜ëŠ” ì‚¬ëžŒì€ í†µê³„í•™ê³¼(ìˆ˜í•™ê³¼)ë¥¼ ë‚˜ì˜¨ ì‚¬ëžŒì´ë¼ê³  í•©ë‹ˆë‹¤. í”„ë¡œê·¸ëž˜ë¨¸ ë³´ë‹¤ë„!
 
-___
-### Second. Study Math too
+ì´ë§Œí•˜ë©´ ìˆ˜í•™ì˜ ì¤‘ìš”ì„±ì„ ê¹¨ë‹¬ì„ ìˆ˜ ìžˆì—ˆì„ ê²ƒì´ë¼ ìƒê°ë©ë‹ˆë‹¤.
 
-±×¸¸Å­ ¼öÇÐÀÌ Áß¿äÇÏ´Ù´Â ÀÇ¹ÌÀÔ´Ï´Ù.
+### Second. Start AI
+#### Website
+- Sung Kim ëª¨ë‘ë¥¼ ìœ„í•œ ë¨¸ì‹ ëŸ¬ë‹/ë”¥ëŸ¬ë‹ ê°•ì˜ [ë§í¬](http://hunkim.github.io/ml/)
+	- ëª¨ë‘ë¥¼ ìœ„í•œ ë”¥ëŸ¬ë‹ ê°•ì¢Œ ì‹œì¦Œ 1 [ë§í¬](https://youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) [ì½”ë“œ](https://github.com/hunkim/DeepLearningZeroToAll)
 
-AI¸¦ °øºÎÇÏ´Â »ç¶÷µéÀÌ °¡Àå ¹«¼­¿öÇÏ´Â »ç¶÷Àº Åë°èÇÐ°ú(¼öÇÐ°ú)¸¦ ³ª¿Â »ç¶÷ÀÌ¶ó°í ÇÕ´Ï´Ù. ÇÁ·Î±×·¡¸Ó º¸´Ùµµ!
 
-ÀÌ¸¸ÇÏ¸é ¼öÇÐÀÇ Áß¿ä¼ºÀ» ±ú´ÞÀ» ¼ö ÀÖ¾úÀ» °ÍÀÌ¶ó »ý°¢µË´Ï´Ù.
 
-___
-### Third. Learning AI(Artificial intelligence)
+#### Book
+- PRML [PDF](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) [í•œê¸€ ë²ˆì—­](http://norman3.github.io/prml/)
 
-¼öÇÐÀÌ ±â¹ÝÀÌ µÇ¾úÀ»¶§ ºñ·Î¼Ò AI¸¦ ÇÒ ¼ö ÀÖ´Â ¿©°ÇÀÌ °®Ãß¾îÁø °ÍÀÔ´Ï´Ù.
+- MML [PDF](https://mml-book.github.io/) 
 
-¿©±â¼­ºÎÅÍ´Â º»°ÝÀûÀ¸·Î AI¸¦ ÇÁ·Î±×·¡¹Ö°ú ÇÔ²² °øºÎÇÏ±â ½ÃÀÛÇÕ´Ï´Ù.
+- í•¸ì¦ˆì˜¨ ë¨¸ì‹ ëŸ¬ë‹ : ì‚¬ì´í‚·ëŸ°, ì¼€ë¼ìŠ¤, í…ì„œí”Œë¡œ 2ë¥¼ í™œìš©í•œ ë¨¸ì‹ ëŸ¬ë‹, ë”¥ëŸ¬ë‹ ì™„ë²½ ì‹¤ë¬´ (2íŒ)
 
-»ç½Ç ¼ø¼­´Â Á¤ÇØÁø°ÍÀÌ ¾ø½À´Ï´Ù¸¸, ¾Æ·¡¿¡ ÇÊÀÚÀÇ °æÇèÀ» Åä´ë·Î ÀÓÀÇÀÇ Ä¿¸®Å§·³À» ¸¸µé¾îºÃ½À´Ï´Ù.
-
-___
-### A book recommendation for Beginner
-
-ÇÊÀÚ°¡ ÀÐÀºÃ¥µéÁß ÃßÃµÇÒ¸¸ÇÑ Ã¥ À§ÁÖ·Î °£´ÜÇÑ ³»¿ë¼³¸í°ú ÇÔ²² ³²±é´Ï´Ù.
-
-- ÇÚÁî¿Â ¸Ó½Å·¯´× : »çÀÌÅ¶·±, ÄÉ¶ó½º, ÅÙ¼­ÇÃ·Î 2¸¦ È°¿ëÇÑ ¸Ó½Å·¯´×, µö·¯´× ¿Ïº® ½Ç¹« (2ÆÇ) 
-	- ¸Ó½Å·¯´× µö·¯´×ÀÇ Àü¹ÝÀûÀÎ ÄÚµå¸¦ °æÇèÇØº¼ ¼ö ÀÖ¾ú½À´Ï´Ù.
-
-- ¹Ø¹Ù´ÚºÎÅÍ ½ÃÀÛÇÏ´Â µö·¯´× ½Ã¸®Áî (3ÆíÀ¸·Î ±¸¼º) 
-	- °¢ ½Ã¸®Áîº°·Î µö·¯´×ÀÇ ÇÑ ¿µ¿ª¿¡ ´ëÇØ ±í°Ô ´Ù·ïº¸°í ÀÌÇØÇÒ ¼ö ÀÖ¾ú½À´Ï´Ù.
-	- ³ªÁß¿¡ ½Ç·ÂÀÌ ½×ÀÌ°í ÀÐ¾îµµ ¹è¿ï°ÍÀÌ ¸¹¾Ò´ø Ã¥ÀÌ¿´½À´Ï´Ù.
-
-- Mathematics For Machine Learning (MML) [PDF·Î Á¦°øÁß](https://mml-book.github.io/)  
-	- ¾ÕºÎºÐ¿¡´Â ¼öÇÐÀ» ´Ù·ç°í ÁßÈÄ¹ÝºÎ¿¡´Â ´ëÇ¥ÀûÀÎ ML(¸Ó½Å·¯´×)¸ðµ¨À» ¼öÇÐÀûÀ¸·Î ´Ù·ïº¼ ¼ö ÀÖ¾ú½À´Ï´Ù. 
-    - ÇöÀç´Â ¿µ¹®ÆÇ¸¸ Á¦°øµÇ°íÀÖ½À´Ï´Ù. 
-
-- ´Ü´ÜÇÑ °­È­ÇÐ½À 
-	- °­È­ÇÐ½À¿¡ ´ëÇØ ÀÚ¼¼È÷ ¼³¸íÇÏ°í ÀÖÀ¸³ª, ¾î´ÀÁ¤µµÀÇ ¼öÇÐÀûÀÎ ½Ç·ÂÀÌ ¿ä±¸µË´Ï´Ù.
-	- ¿µ¹®ÆÇÀÌ ÈÎ½Å Ç¥ÇöÀÌ ±ò²ûÇÕ´Ï´Ù.
-
-___
-## Junior Level
-
-### What Should I Do
-ÀÌ·± Àú·± Ã¥°ú ½Ç½ÀÀ» ³¡³»°í ³ª¸é ¹«¾ùÀ» ÇØ¾ßÇÒ±î¿ä?
-
-ÇÊÀÚ´Â ¾Æ·¡¿Í °°Àº È°µ¿µéÀ» ÃßÃµÇÕ´Ï´Ù.
-
-- °³ÀÎ ÇÁ·ÎÁ§Æ®
-
-- Ä³±ÛÀ» È°¿ëÇÑ °øºÎ
-
-#### °³ÀÎ ÇÁ·ÎÁ§Æ®¸¦ ¸¸µé¾îºÁ¾ß ÇÏ´Â ÀÌÀ¯
-°³ÀÎ ÇÁ·ÎÁ§Æ®¸¦ ÃßÃµÇÏ´Â ÀÌÀ¯°¡ ÀÖ½À´Ï´Ù. 
-
-¿©·¯ºÐÀÌ ÀÚ½ÅÀÇ ÁÖº¯À¸·ÎºÎÅÍ ¾ÆÀÌµð¾î¸¦ ¾ò¾î¼­ AI ¸ðµ¨À» ¸¸µé¾îº»´Ù°í »ý°¢ÇØº¾½Ã´Ù.
-
-Ã¥¿¡¼­ Á¦°øÇß´ø ½Ç½À µ¥ÀÌÅÍµé°ú´Â ´Ù¸£°Ô ¿©·¯ºÐÀÌ ÇÊ¿äÇÑ µ¥ÀÌÅÍµéÀ» Á÷Á¢ ¼öÁýÇÏ°í ¿øÇÏ´Â ÇüÅÂ·Î ´Ùµë°í EDA µîÀÇ °úÁ¤À» °ÅÃÄ°¡´Â °úÁ¤µé¿¡ ´ëÇØ ±ú´ÞÀ» ¼ö ÀÖÀ¸¸ç Ã³À½ Á¢ÇÏ´Â ¸¹Àº ¿À·ùµéÀ» ¸¸³ªº¼ ¼ö ÀÖÀ¸¸ç, ÀÌ·¯ÇÑ °úÁ¤µéÀ» °ÅÃÄ°¡¸ç ÇÑÃþ ´õ ¼ºÀåÇÒ ¼ö ÀÖÀ»°ÍÀÔ´Ï´Ù.
-
-#### Ä³±ÛÀ» È°¿ëÇÑ °øºÎ?
-Ä³±Û(Kaggle)Àº µ¥ÀÌÅÍ °æÁø´ëÈ¸ ÇÃ·§ÆûÀÔ´Ï´Ù.
-
-±×·¡¼­ Ä³±ÛÀº ¹«¾ùÀ» ÇÏ´Â°¡?
-
-ÀÌ´Â "µ¥ÀÌÅÍ°¡ ¶Ù¾î³ë´Â AI ³îÀÌÅÍ, Ä³±Û : »óÀ§ ·©Å· ÁøÀÔÀ» À§ÇÑ ÇÊ»ì±â"¶ó´Â Ã¥ÀÇ ÃâÆÇ»ç ¼­ÆòÀ¸·Î ´ë½ÅÇÏ°Ú½À´Ï´Ù.
-
-> »ó´ç¼öÀÇ µ¥ÀÌÅÍ °úÇÐÀÚ°¡ ÀÚ½ÅÀÇ ½Ç·ÂÀ» °ËÁõÇÏ°íÀÚ ¡®Ä³±Û¡¯¿¡ µµÀüÇÕ´Ï´Ù. ´ëÈ¸¿¡¼­´Â ½ÇÁ¦ µ¥ÀÌÅÍ¸¦ ÀÌ¿ëÇÏ±â ¶§¹®¿¡ ÀÏ¹ÝÀûÀÌÁö ¾ÊÀº µ¥ÀÌÅÍ Ã³¸® ¹æ¹ý°ú ±â¹ýÀÌ ¸¹ÀÌ È°¿ëµË´Ï´Ù. ±×·¯ÇÑ ³»¿ëÀ» ÀÌÇØÇÏ°í ½º½º·Î È°¿ëÇÒ ¼ö ÀÖ´Â ´É·ÂÀ» °®Ãß´Â °ÍÀº °æÁø ´ëÈ¸´Â ¹°·ÐÀÌ°í ½Ç¹«¿¡¼­µµ ¸ðµ¨À» ±¸ÇöÇÏ´Â µ¥ ¸¹Àº µµ¿òÀÌ µË´Ï´Ù.
-
-ÀÌ·¯ÇÑ ¸ñÀûÀ¸·Î »ç¶÷µéÀÌ Ä³±ÛÀ» »ç¿ëÇÕ´Ï´Ù. ÀÌ·¯ÇÑ Ä³±Û¿¡´Â ¶Ù¾î³­ Àü¹®°¡µéÀÌ ¸¸µé¾îµÐ ´Ù¾çÇÑ ÄÚµåµéÀ» º¼ ¼ö ÀÖ½À´Ï´Ù. 
-
-ÀÌ°ÍµéÀ» °øºÎ¿¡ ÀÌ¿ëÇÏ´Â °ÍÀ» "Ä³±Û °øºÎ¹ý"ÀÌ¶ó°í ÇÕ´Ï´Ù.
-
-ÇÑ°¡Áö µ¥ÀÌÅÍ¿¡ ´ëÇØ ¿©·¯ ¹æ¹ýÀ¸·Î ´Ù·ç°í ¾î¶² ¸ðµ¨µéÀ» »ç¿ëÇÏ´ÂÁö µîÀ» º¸°í °æÇèÇÏ¸ç ½Ã¾ß¸¦ ³ÐÈú ¼ö ÀÖ´Â ±âÈ¸°¡ µË´Ï´Ù.
-
-°øºÎ¹ýÀº »ç¶÷¸¶´Ù ´Ù¸£¹Ç·Î "Ä³±Û °øºÎ¹ý"ÀÌ¶ó´Â Å°¿öµå¸¦ °¡Áö°í °Ë»öÇØº¸½Ã±æ ¹Ù¶ø´Ï´Ù.
-
-### Junior Level °úÁ¤¿¡¼­ ¾ò¾î¾ß ÇÒ Áß¿äÇÑ ¸ñÇ¥
-
+- ë°‘ë°”ë‹¥ë¶€í„° ì‹œìž‘í•˜ëŠ” ë”¥ëŸ¬ë‹ ì‹œë¦¬ì¦ˆ (3íŽ¸ìœ¼ë¡œ êµ¬ì„±)
