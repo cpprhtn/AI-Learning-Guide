@@ -54,7 +54,7 @@ Java, C++, Rust 등의 타 언어로도 AI를 구현할 수 있으나, 새로 �
 
 
 ### Where to read AI papers
-[paperswithcode](https://paperswithcode.com/methods) 자주 모니터링 하는편
+[paperswithcode](https://paperswithcode.com/methods) 자주 모니터링 하는편  
 [NIPS](https://nips.cc/)  
 [ICML](https://icml.cc/)  
 [ICLR](https://iclr.cc/)  
