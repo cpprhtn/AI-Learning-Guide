@@ -1,6 +1,6 @@
 # AI Learning Guide
 
-![AI Learning Guideline](/Guideline.png)
+![AI Learning Guideline](/docs/Guideline.png)
 ## Before You read this
 인공지능을 처음 접하는 분들을 위해서 만들어보는 페이지입니다.
 
