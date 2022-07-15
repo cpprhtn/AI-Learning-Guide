@@ -38,7 +38,7 @@ Java, C++, Rust 등의 타 언어로도 AI를 구현할 수 있으나, 새로 �
 - Machine Learning
 - Deep Learning
 
-### [4. Official Paper Review](Official-Paper.md)
+### [4. Official Paper Review](/docs/Official-Paper.md)
 AI의 다양한 파트들의 오피셜한 논문 몇개를 읽어보는 파트입니다.
 
 AI는 다양한 세부 분야로 나누어지며 그중에 한가지 분야에 대하여 연구하거나 공부하게 됩니다.
