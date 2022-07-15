@@ -1,4 +1,4 @@
-## Official Paper Review [참고사항](#notes)
+## Official Paper Review [Notes](#notes)
 
 ### Computer Vision (CV)
 
