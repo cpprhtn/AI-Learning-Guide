@@ -3,7 +3,7 @@
 ### Computer Vision (CV)
 
 ### Natural Language Processing (NLP)
-
+- [꼭 읽어야 할 NLP 논문 100가지](https://github.com/mhagiwara/100-nlp-papers)
 ### Recommender Systems
 
 ### Reinforcement Learning (RL)
@@ -11,6 +11,8 @@
 ### Generative Adversarial Network (GAN)
 
 ### ETC.
+- [MLOps 정리 노션](http://bit.ly/zzsza_links)
+- [Open Neural Network Exchange (ONNX)](https://github.com/onnx/onnx)
 
 ## Notes
 #### What to Read paper
