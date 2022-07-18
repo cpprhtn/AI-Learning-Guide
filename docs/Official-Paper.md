@@ -1,4 +1,5 @@
 ## Official Paper Review [Notes](#notes)
+- [paperswithcode](https://paperswithcode.com/methods) - AI 논문과 Offical Code들을 볼 수 있는 페이지.
 
 ### Computer Vision (CV)
 
@@ -12,9 +13,17 @@
 
 ### ETC.
 - [MLOps 정리 노션](http://bit.ly/zzsza_links)
+- [MLOps Contents 모음](https://github.com/MLOpsKR/Awesome-MLOps-Contents)
 - [Open Neural Network Exchange (ONNX)](https://github.com/onnx/onnx)
 
 ## Notes
+### [Top proceedings/journals (ML/DL)](https://scholar.google.com.sg/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence)
+- [ICLR](https://iclr.cc/) 
+- [NeurIPS](https://nips.cc/)  
+- [ICML](https://icml.cc/)
+- [AAAI](https://www.aaai.org/)
+- [IEEE Transactions On Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3477)
+
 #### What to Read paper
 1. Make a list of papers to read
 2. Add or remove papers from the list.
