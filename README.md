@@ -24,7 +24,7 @@ AI는 코딩이 기반이 아니라 수학이 기반이기 때문입니다.
 ### [2. Python](/docs/Python.md)
 AI분야에서 Python 공부는 필수라고 생각합니다.
 
-Java, C++, Rust 등의 타 언어로도 AI를 구현할 수 있으나, 새로 제안되는 대부분의 논문들이나, 기존에 있는 AI 생태계의 대부분은 Python으로 이루어져 있기 때문입니다.
+Java, C++, Rust, R 등의 타 언어로도 AI를 구현할 수 있으나, 새로 제안되는 대부분의 논문들이나, 기존에 있는 AI 생태계의 대부분은 Python으로 이루어져 있기 때문입니다.
 
 - Basic Python Grammar
 - 데이터 분석 및 조작 [Numpy/Pandas/Scipy]
