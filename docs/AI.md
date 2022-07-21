@@ -24,6 +24,7 @@
 - [CS329S(Machine Learning Systems Design)](https://youtu.be/OEiNnfdxBRE)
 - 밑바닥부터 시작하는 딥러닝 시리즈 (3편으로 구성)
 - [Do It! 딥러닝 입문](https://youtube.com/playlist?list=PLJN246lAkhQgbBx2Kag0wIZedn-P9KcH9)
+- [Pytorch로 시작하는 딥러닝 입문](https://wikidocs.net/book/2788)]
 
 ### ETC (ex: k8s/MLOps)
 - [Kubernetes tutorials](https://kubernetes.io/docs/tutorials/)
