@@ -7,6 +7,8 @@
 - [Tensorflow example](https://github.com/tensorflow/examples)
 - [Keras example](https://keras.io/examples/)
 
+- [파이토치 한국 사용자 모임](https://pytorch.kr/)
+
 ### Machine Learning
 - PRML [PDF](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) [한글 번역](http://norman3.github.io/prml/)
 - MML [PDF](https://mml-book.github.io/) 
@@ -26,6 +28,7 @@
 - 밑바닥부터 시작하는 딥러닝 시리즈 (3편으로 구성)
 - [Do It! 딥러닝 입문](https://youtube.com/playlist?list=PLJN246lAkhQgbBx2Kag0wIZedn-P9KcH9)
 - [Pytorch로 시작하는 딥러닝 입문](https://wikidocs.net/book/2788)]
+- [Dive into Deep Learning](https://ko.d2l.ai/index.html)
 
 ### ETC (ex: k8s/MLOps)
 - [Kubernetes tutorials](https://kubernetes.io/docs/tutorials/)
