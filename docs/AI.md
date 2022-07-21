@@ -34,4 +34,5 @@
 - [Kubernetes tutorials](https://kubernetes.io/docs/tutorials/)
 - [MLOps 정리 노션](http://bit.ly/zzsza_links)
 - [MLOps Contents 모음](https://github.com/MLOpsKR/Awesome-MLOps-Contents)
+- [Kubeflow를 통해 더 나은 AI 모델 서빙과 MLOps 실현하기](https://tv.naver.com/v/23650093)
 - [Open Neural Network Exchange (ONNX)](https://github.com/onnx/onnx)
