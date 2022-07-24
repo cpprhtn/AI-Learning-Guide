@@ -29,7 +29,8 @@
 - [Do It! 딥러닝 입문](https://youtube.com/playlist?list=PLJN246lAkhQgbBx2Kag0wIZedn-P9KcH9)
 - [Pytorch로 시작하는 딥러닝 입문](https://wikidocs.net/book/2788)]
 - [Dive into Deep Learning](https://ko.d2l.ai/index.html)
-
+- [PYTORCH로 딥러닝하기: 60분만에 끝장내기](https://tutorials.pytorch.kr/beginner/deep_learning_60min_blitz.html)
+- [파이토치 한번에 끝내기](https://www.youtube.com/watch?v=k60oT_8lyFw)
 ### ETC (ex: k8s/MLOps)
 - [Kubernetes tutorials](https://kubernetes.io/docs/tutorials/)
 - [MLOps 정리 노션](http://bit.ly/zzsza_links)
