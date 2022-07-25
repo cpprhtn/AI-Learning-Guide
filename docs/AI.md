@@ -9,6 +9,9 @@
 
 - [파이토치 한국 사용자 모임](https://pytorch.kr/)
 
+- [Ray Framework](https://docs.ray.io/en/latest/cluster/index.html)
+
+
 ### Machine Learning
 - PRML [PDF](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) [한글 번역](http://norman3.github.io/prml/)
 - MML [PDF](https://mml-book.github.io/) 
