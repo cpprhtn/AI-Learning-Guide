@@ -3,6 +3,7 @@
 ### 선형대수학
 - [공돌이의 수학정리노트 - 선형대수학 응용](https://angeloyeo.github.io/2019/07/27/PCA.html)
 - [Khan-academy "선형대수학을 위한 벡터란?"](https://ko.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra)
+- [인공지능을 위한 선형대수학 - 주재걸 카이스트 교수](https://www.edwith.org/ai251)
 
 ### 미적분
 - [공돌이의 수학정리노트 - 기초 미적분학](https://angeloyeo.github.io/2019/09/02/Taylor_Series.html)
