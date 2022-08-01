@@ -1,0 +1,1 @@
+- [Activation function-위키피디아](https://en.wikipedia.org/wiki/Activation_function)
