@@ -11,3 +11,4 @@ AI에 쓰이는 단어들이 일반적인 영어랑 다른의미로 쓰이는 �
 |activation function||활성화 함수|[링크](./activation_function.md)|
 |backborn||백본|[링크](./backborn.md)|
 |computer vision|CV|컴퓨터 비전|[링크](./computer_vision.md)|
+|natural language processing|NLP|자연어처리|[링크](./natural_language_processing.md)|

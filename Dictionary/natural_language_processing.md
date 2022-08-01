@@ -1,0 +1,1 @@
+﻿- [자연어 처리 - 위키백과](https://ko.wikipedia.org/wiki/%EC%9E%90%EC%97%B0%EC%96%B4_%EC%B2%98%EB%A6%AC)
