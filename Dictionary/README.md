@@ -8,5 +8,6 @@ AI에 쓰이는 단어들이 일반적인 영어랑 다른의미로 쓰이는 �
 
 |영어|준말|한글|부연 설명|
 |---|---|---|---|
+|activation function||활성화 함수|[링크](./activation_function)|
 |backborn||백본|[링크](./backborn.md)|
 |Computer Vision|CV|컴퓨터 비전|[링크](./computer_vision.md)|
