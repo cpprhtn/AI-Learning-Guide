@@ -5,7 +5,7 @@ AI에 쓰이는 단어들이 일반적인 영어랑 다른의미로 쓰이는 �
 인공지능을 처음 배우는 사람들에게, 혹은 다른 도메인을 공부하는 사람들에게 도움이되고자 한번 기획해서 추진하려고 합니다!
 
 원하는 단어를 찾는 방법은 `ctrl + F` 혹은 `command + F`를 눌러 검색기능을 활용해주세요.
-abcdefghijklmnopqrstuvwxyz
+
 |영어|준말|한글|부연 설명|
 |---|---|---|---|
 |activation function||활성화 함수|[링크](./activation_function.md)|
