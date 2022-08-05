@@ -1,4 +1,4 @@
-## AI
+ï»¿## AI
 
 ### Framework [Tensorflow(Keras)/Pytorch(Fast AI)/Matlab]
 - [pytorch vs tensorflow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
@@ -7,37 +7,38 @@
 - [Tensorflow example](https://github.com/tensorflow/examples)
 - [Keras example](https://keras.io/examples/)
 
-- [ÆÄÀÌÅäÄ¡ ÇÑ±¹ »ç¿ëÀÚ ¸ğÀÓ](https://pytorch.kr/)
+- [íŒŒì´í† ì¹˜ í•œêµ­ ì‚¬ìš©ì ëª¨ì„](https://pytorch.kr/)
 
 - [Ray Framework](https://docs.ray.io/en/latest/cluster/index.html)
 
 
 ### Machine Learning
-- PRML [PDF](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) [ÇÑ±Û ¹ø¿ª](http://norman3.github.io/prml/)
+- PRML [PDF](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) [í•œê¸€ ë²ˆì—­](http://norman3.github.io/prml/)
 - MML [PDF](https://mml-book.github.io/) 
-- [ÇÚÁî¿Â ¸Ó½Å·¯´× : »çÀÌÅ¶·±, ÄÉ¶ó½º, ÅÙ¼­ÇÃ·Î 2¸¦ È°¿ëÇÑ ¸Ó½Å·¯´×, µö·¯´× ¿Ïº® ½Ç¹« 2ÆÇ (À¯Æ©ºê)](https://youtube.com/playlist?list=PLJN246lAkhQjX3LOdLVnfdFaCbGouEBeb)
-- [¸Ó½Å ·¯´× ±³°ú¼­ 3ÆÇ (À¯Æ©ºê)](https://youtube.com/playlist?list=PLJN246lAkhQiEc-QvvGzUneCWuRnCNKgU)
-- [È¥ÀÚ °øºÎÇÏ´Â ¸Ó½Å·¯´× + µö·¯´× (À¯Æ©ºê)](https://youtube.com/playlist?list=PLJN246lAkhQjoU0C4v8FgtbjOIXxSs_4Q)
-
+- [í•¸ì¦ˆì˜¨ ë¨¸ì‹ ëŸ¬ë‹ : ì‚¬ì´í‚·ëŸ°, ì¼€ë¼ìŠ¤, í…ì„œí”Œë¡œ 2ë¥¼ í™œìš©í•œ ë¨¸ì‹ ëŸ¬ë‹, ë”¥ëŸ¬ë‹ ì™„ë²½ ì‹¤ë¬´ 2íŒ (ìœ íŠœë¸Œ)](https://youtube.com/playlist?list=PLJN246lAkhQjX3LOdLVnfdFaCbGouEBeb)
+- [ë¨¸ì‹  ëŸ¬ë‹ êµê³¼ì„œ 3íŒ (ìœ íŠœë¸Œ)](https://youtube.com/playlist?list=PLJN246lAkhQiEc-QvvGzUneCWuRnCNKgU)
+- [í˜¼ì ê³µë¶€í•˜ëŠ” ë¨¸ì‹ ëŸ¬ë‹ + ë”¥ëŸ¬ë‹ (ìœ íŠœë¸Œ)](https://youtube.com/playlist?list=PLJN246lAkhQjoU0C4v8FgtbjOIXxSs_4Q)
+- [xgoost](https://xgboost.readthedocs.io/en/stable/)
+- [CatBoost vs LightGBM vs XGBoost ë¹„êµ ê¸€](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
 ### Deep Learning
-- [Sung Kim ¸ğµÎ¸¦ À§ÇÑ ¸Ó½Å·¯´×/µö·¯´× °­ÀÇ](http://hunkim.github.io/ml/)
-	- [¸ğµÎ¸¦ À§ÇÑ µö·¯´× °­ÁÂ ½ÃÁğ 1](https://youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
-    - [¸ğµÎ¸¦ À§ÇÑ RL°­ÁÂ](https://youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
-    - [PR12 µö·¯´× ³í¹®ÀĞ±â ¸ğÀÓ](https://youtube.com/playlist?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
+- [Sung Kim ëª¨ë‘ë¥¼ ìœ„í•œ ë¨¸ì‹ ëŸ¬ë‹/ë”¥ëŸ¬ë‹ ê°•ì˜](http://hunkim.github.io/ml/)
+	- [ëª¨ë‘ë¥¼ ìœ„í•œ ë”¥ëŸ¬ë‹ ê°•ì¢Œ ì‹œì¦Œ 1](https://youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+    - [ëª¨ë‘ë¥¼ ìœ„í•œ RLê°•ì¢Œ](https://youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
+    - [PR12 ë”¥ëŸ¬ë‹ ë…¼ë¬¸ì½ê¸° ëª¨ì„](https://youtube.com/playlist?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
 - [Andrew Ng Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning)
-- [Andrew Ng Coursera °­ÀÇ Á¤¸®](http://www.holehouse.org/mlclass/)
+- [Andrew Ng Coursera ê°•ì˜ ì •ë¦¬](http://www.holehouse.org/mlclass/)
 - [CS231n(Convolutional Neural Networks for Visual Recognition)](https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 - [CS329S(Machine Learning Systems Design)](https://youtu.be/OEiNnfdxBRE)
-- ¹Ø¹Ù´ÚºÎÅÍ ½ÃÀÛÇÏ´Â µö·¯´× ½Ã¸®Áî (3ÆíÀ¸·Î ±¸¼º)
-- [Do It! µö·¯´× ÀÔ¹®](https://youtube.com/playlist?list=PLJN246lAkhQgbBx2Kag0wIZedn-P9KcH9)
-- [Pytorch·Î ½ÃÀÛÇÏ´Â µö·¯´× ÀÔ¹®](https://wikidocs.net/book/2788)]
+- ë°‘ë°”ë‹¥ë¶€í„° ì‹œì‘í•˜ëŠ” ë”¥ëŸ¬ë‹ ì‹œë¦¬ì¦ˆ (3í¸ìœ¼ë¡œ êµ¬ì„±)
+- [Do It! ë”¥ëŸ¬ë‹ ì…ë¬¸](https://youtube.com/playlist?list=PLJN246lAkhQgbBx2Kag0wIZedn-P9KcH9)
+- [Pytorchë¡œ ì‹œì‘í•˜ëŠ” ë”¥ëŸ¬ë‹ ì…ë¬¸](https://wikidocs.net/book/2788)]
 - [Dive into Deep Learning](https://ko.d2l.ai/index.html)
-- [PYTORCH·Î µö·¯´×ÇÏ±â: 60ºĞ¸¸¿¡ ³¡Àå³»±â](https://tutorials.pytorch.kr/beginner/deep_learning_60min_blitz.html)
-- [ÆÄÀÌÅäÄ¡ ÇÑ¹ø¿¡ ³¡³»±â](https://www.youtube.com/watch?v=k60oT_8lyFw)
+- [PYTORCHë¡œ ë”¥ëŸ¬ë‹í•˜ê¸°: 60ë¶„ë§Œì— ëì¥ë‚´ê¸°](https://tutorials.pytorch.kr/beginner/deep_learning_60min_blitz.html)
+- [íŒŒì´í† ì¹˜ í•œë²ˆì— ëë‚´ê¸°](https://www.youtube.com/watch?v=k60oT_8lyFw)
 ### ETC (ex: k8s/MLOps)
 - [Kubernetes tutorials](https://kubernetes.io/docs/tutorials/)
-- [MLOps Á¤¸® ³ë¼Ç](http://bit.ly/zzsza_links)
-- [MLOps Contents ¸ğÀ½](https://github.com/MLOpsKR/Awesome-MLOps-Contents)
-- [Kubeflow¸¦ ÅëÇØ ´õ ³ªÀº AI ¸ğµ¨ ¼­ºù°ú MLOps ½ÇÇöÇÏ±â](https://tv.naver.com/v/23650093)
+- [MLOps ì •ë¦¬ ë…¸ì…˜](http://bit.ly/zzsza_links)
+- [MLOps Contents ëª¨ìŒ](https://github.com/MLOpsKR/Awesome-MLOps-Contents)
+- [Kubeflowë¥¼ í†µí•´ ë” ë‚˜ì€ AI ëª¨ë¸ ì„œë¹™ê³¼ MLOps ì‹¤í˜„í•˜ê¸°](https://tv.naver.com/v/23650093)
 - [Open Neural Network Exchange (ONNX)](https://github.com/onnx/onnx)
 - [Airflow vs Kubeflow](https://hevodata.com/learn/kubeflow-vs-airflow/)
