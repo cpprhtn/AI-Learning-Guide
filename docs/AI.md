@@ -6,6 +6,7 @@
 - [Tensorflow tutorial guide](https://www.tensorflow.org/tutorials?hl=ko)
 - [Tensorflow example](https://github.com/tensorflow/examples)
 - [Keras example](https://keras.io/examples/)
+- [Which is better for AI Python or R](https://dac.digital/which-is-better-for-ai-python-or-r/)
 
 - [파이토치 한국 사용자 모임](https://pytorch.kr/)
 
@@ -13,8 +14,10 @@
 
 
 ### Machine Learning
+- An Introduction to Statistical Learning [PDF - Second Edition](https://www.statlearning.com/)
 - PRML [PDF](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) [한글 번역](http://norman3.github.io/prml/)
 - MML [PDF](https://mml-book.github.io/) 
+- Probabilistic Machine Learning [github page](https://probml.github.io/pml-book/book1.html) [PDF](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
 - [핸즈온 머신러닝 : 사이킷런, 케라스, 텐서플로 2를 활용한 머신러닝, 딥러닝 완벽 실무 2판 (유튜브)](https://youtube.com/playlist?list=PLJN246lAkhQjX3LOdLVnfdFaCbGouEBeb)
 - [머신 러닝 교과서 3판 (유튜브)](https://youtube.com/playlist?list=PLJN246lAkhQiEc-QvvGzUneCWuRnCNKgU)
 - [혼자 공부하는 머신러닝 + 딥러닝 (유튜브)](https://youtube.com/playlist?list=PLJN246lAkhQjoU0C4v8FgtbjOIXxSs_4Q)
