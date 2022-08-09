@@ -22,11 +22,12 @@
 - [Pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html)
 - [Pandas 시작하기 (블로그)](https://compmath.korea.ac.kr/appmath/GettingStartPandas.html)
 - [100 pandas puzzles](https://github.com/ajcr/100-pandas-puzzles)
+
 #### Scipy
 - [SciPy User Guide](https://docs.scipy.org/doc/scipy/tutorial/index.html)
 - [SciPy Cookbook](https://scipy-cookbook.readthedocs.io/)
 
-### 시각화 [[Matplotlib](#matplotlib)/[Seaborn](#seaborn)/[Folium](#folium)]
+### 시각화 [[Matplotlib](#matplotlib)/[Seaborn](#seaborn)]
 
 #### Matplotlib
 - [Matplotlib tutorials](https://matplotlib.org/stable/tutorials/index.html)
@@ -34,6 +35,3 @@
 
 #### Seaborn
 - [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
-
-#### Folium
-- 
