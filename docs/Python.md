@@ -6,6 +6,10 @@
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - O'REILLY Introducing Python: 처음 시작하는 파이썬 2판
 - [데이터 분석을 위한 파이썬](https://compmath.korea.ac.kr/appmath/Preliminaries.html)
+- [EliceAcademy](https://academy.elice.io/courses/all?category=6&price=25&programmingLanguage=18&tab=course)
+	- 모두의 파이썬
+	- 혼자 공부하는 파이썬
+	- 외 다수의 도서 무료 제공
 
 ### 데이터 분석 및 조작 [[Numpy](#numpy)/[Pandas](#pandas)/[Scipy](#scipy)]
 

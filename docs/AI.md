@@ -21,8 +21,15 @@
 - [핸즈온 머신러닝 : 사이킷런, 케라스, 텐서플로 2를 활용한 머신러닝, 딥러닝 완벽 실무 2판 (유튜브)](https://youtube.com/playlist?list=PLJN246lAkhQjX3LOdLVnfdFaCbGouEBeb)
 - [머신 러닝 교과서 3판 (유튜브)](https://youtube.com/playlist?list=PLJN246lAkhQiEc-QvvGzUneCWuRnCNKgU)
 - [혼자 공부하는 머신러닝 + 딥러닝 (유튜브)](https://youtube.com/playlist?list=PLJN246lAkhQjoU0C4v8FgtbjOIXxSs_4Q)
+- [EliceAcademy](https://academy.elice.io/courses/all?category=7&category=9&price=25&tab=course)
+    - Do it! 딥러닝 입문
+    - 혼자 공부하는 머신러닝 + 딥러닝
+    - 모두의 딥러닝
+    - 외 일부 도서 무료 제공
 - [xgoost](https://xgboost.readthedocs.io/en/stable/)
 - [CatBoost vs LightGBM vs XGBoost 비교 글](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
+
+
 ### Deep Learning
 - [Sung Kim 모두를 위한 머신러닝/딥러닝 강의](http://hunkim.github.io/ml/)
 	- [모두를 위한 딥러닝 강좌 시즌 1](https://youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
@@ -38,6 +45,7 @@
 - [Dive into Deep Learning](https://ko.d2l.ai/index.html)
 - [PYTORCH로 딥러닝하기: 60분만에 끝장내기](https://tutorials.pytorch.kr/beginner/deep_learning_60min_blitz.html)
 - [파이토치 한번에 끝내기](https://www.youtube.com/watch?v=k60oT_8lyFw)
+
 ### ETC (ex: k8s/MLOps)
 - [Kubernetes tutorials](https://kubernetes.io/docs/tutorials/)
 - [MLOps 정리 노션](http://bit.ly/zzsza_links)
