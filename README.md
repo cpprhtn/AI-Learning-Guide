@@ -25,7 +25,7 @@ Java, C++, Rust, R 등의 타 언어로도 AI를 구현할 수 있으나, 새로
 
 - Basic Python Grammar
 - 데이터 분석 및 조작 [Numpy/Pandas/Scipy]
-- 시각화 [Matplotlib/Seaborn/Folium]
+- 시각화 [Matplotlib/Seaborn]
 
 ### [3. AI](/docs/AI.md)
 인공지능을 실제로 만들어보거나 사용해보거나 구현해보는 파트입니다.
