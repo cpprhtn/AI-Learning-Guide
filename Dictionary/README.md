@@ -9,14 +9,58 @@ AI에 쓰이는 단어들이 일반적인 영어랑 다른의미로 쓰이는 �
 |영어|준말|한글|부연 설명|
 |---|---|---|---|
 |activation function||활성화 함수|[링크](./activation_function.md)|
+|affine transformation||아핀 변환||
 |backbone||백본|[링크](./backbone.md)|
+|backpropagation||역전파||
+|batch||배치||
+|batch normalization|bn|배치 정규화||
+|batch size||배치 사이즈||
+|bayesian optimization||베이즈 최적화||
+|bias||편향||
 |computer vision|CV|컴퓨터 비전|[링크](./computer_vision.md)|
+|convolution||합성곱||
+|cross-correlation||교차상관관계||
+|cross entropy error|CEE|교차 엔트로피 오차||
+|data pre-processing||데이터 전처리||
 |dropout||드롭아웃||
+|end-to-end deep learning||종단간 기계학습||
+|epoch||에포크||
+|feature||특징||
+|feature map||특징 맵||
+|filter||필터||
+|forward propagation||순전파||
+|fully-connected|fc|완전연결||
+|gradient||기울기||
 |gradient descent|GD|경사 하강법|`optimizer`|
+|gradient vanishing||기울기 소실||
+|grid search||그리드 서치|
+|hyper parameter||하이퍼파라미터||
+|identity function||항등 함수|`activation function`|
+|kernel||커널||
+|learning rate|lr|학습률||
+|mini batch||미니배치||
 |momentum||모멘텀|`optimizer`|
 |natural language processing|NLP|자연어처리|[링크](./natural_language_processing.md)|
+|normalization||정규화||
+|one-hot encoding||원-핫 인코딩||
+|optimization||최적화||
 |optimizer||옵티마이저||
-|relu||렐루|`activation function`|
+|overfitting||오버피팅||
+|padding||패딩||
+|parameter||파라미터||
+|perceptron||퍼셉트론||
+|pooling||풀링||
+|random search||랜덤 서치||
+|receptive field||수용 영역||
+|rectified linear unit|relu|렐루|`activation function`|
 |sigmoid||시그모이드|`activation function`|
 |softmax||소프트맥스|`activation function`|
-|stochastic gradient descent|SGD||`optimizer`|
+|standardization||표준화||
+|stochastic gradient descent|SGD|확률적 경사 하강법|`optimizer`|
+|stride||스트라이드||
+|sum of squares for error|SSE|오차제곱합|
+|training||학습||
+|transopose matrix||전치 행렬||
+|weight||가중치||
+|weight initialization||가중치 초기화||
+|whitening||백색화||
