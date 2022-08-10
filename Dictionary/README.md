@@ -13,7 +13,7 @@ AI에 쓰이는 단어들이 일반적인 영어랑 다른의미로 쓰이는 �
 |backbone||백본|[링크](./backbone.md)|
 |backpropagation||역전파||
 |batch||배치||
-|batch normalization|bn|배치 정규화||
+|batch normalization|BN|배치 정규화||
 |batch size||배치 사이즈||
 |bayesian optimization||베이즈 최적화||
 |bias||편향||
@@ -29,7 +29,7 @@ AI에 쓰이는 단어들이 일반적인 영어랑 다른의미로 쓰이는 �
 |feature map||특징 맵||
 |filter||필터||
 |forward propagation||순전파||
-|fully-connected|fc|완전연결||
+|fully-connected|FC|완전연결||
 |gradient||기울기||
 |gradient descent|GD|경사 하강법|`optimizer`|
 |gradient vanishing||기울기 소실||
@@ -52,7 +52,7 @@ AI에 쓰이는 단어들이 일반적인 영어랑 다른의미로 쓰이는 �
 |pooling||풀링||
 |random search||랜덤 서치||
 |receptive field||수용 영역||
-|rectified linear unit|relu|렐루|`activation function`|
+|rectified linear unit|ReLU|렐루|`activation function`|
 |sigmoid||시그모이드|`activation function`|
 |softmax||소프트맥스|`activation function`|
 |standardization||표준화||
