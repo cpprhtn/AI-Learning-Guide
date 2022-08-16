@@ -39,11 +39,7 @@
 
 <details>
     <summary>딥러닝</summary>
-
-    <details>
-        <summary>강화학습(Reinforcement learning)</summary>
-        문제에 대한 직접적인 해답을 주지 않고 경험을 통해 기대값이 최대가 되는 것을 찾는 학습방법
-    </details>
+    강화학습(Reinforcement learning) : 문제에 대한 직접적인 해답을 주지 않고 경험을 통해 기대값이 최대가 되는 것을 찾는 학습방법
 </details>
 
 
@@ -51,7 +47,6 @@
 
 <details>
     <summary>수치형 성능평가지표</summary>
-	
 	평균제곱오차(MSE, Mean square error) : 관측값의 차이가 많을수록 MAE에 비해 높은 패널티 부여
 	평균제곱근편차(RMSE, Root mean square error)
 	평균절대오차(MAE, Mean absolute error) 
@@ -64,29 +59,29 @@
 </details>
 <details>
 	<summary>이미지/영상 성능평가지표</summary>
-		+ HD(Hausdorff distance)
-		+ AVD(Average hausdorff distance)
+		HD(Hausdorff distance)
+		AVD(Average hausdorff distance)
 </details>
 
 <details>
     <summary>분류 성능평가지표</summary>
-	+ 정확도(ACC, Accuracy)
-	+ 정밀도(PAG, Precision)
-	+ 재현율(POD, Recall 혹은 Probability of detection)
-	+ 오보율(FAR, False Alarm ratio)
-	+ 임계성공지수(CSI 혹은 IoU, Critical Success Index, Jaccard index, Intersection over Union)
-	+ F1-Score
-	+ ETS(Equitable Threat Score)
-	+ ROC(Receiver operating characteristic)
-	+ AUC(Area under curve)
-	+ Gain AUC
-	+ Area under the Lift Chart
-	+ Area under the precision-recall curve(PRAUC)
-	+ Gini index
-	+ Normalized gini
-	+ Log loss(Cross entropy)
-	+ Multi log loss
-	+ Poisson log loss
+	정확도(ACC, Accuracy)
+	정밀도(PAG, Precision)
+	재현율(POD, Recall 혹은 Probability of detection)
+	오보율(FAR, False Alarm ratio)
+	임계성공지수(CSI 혹은 IoU, Critical Success Index, Jaccard index, Intersection over Union)
+	F1-Score
+	ETS(Equitable Threat Score)
+	ROC(Receiver operating characteristic)
+	AUC(Area under curve)
+	Gain AUC
+	Area under the Lift Chart
+	Area under the precision-recall curve(PRAUC)
+	Gini index
+	Normalized gini
+	Log loss(Cross entropy)
+	Multi log loss
+	Poisson log loss
 </details>
 
 ### Framework [Tensorflow(Keras)/Pytorch(Fast AI)/Matlab]
