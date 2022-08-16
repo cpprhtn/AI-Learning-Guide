@@ -51,6 +51,7 @@
 
 <details>
     <summary>수치형 성능평가지표</summary>
+
 	+ 평균제곱오차(MSE, Mean square error) : 관측값의 차이가 많을수록 MAE에 비해 높은 패널티 부여
 	+ 평균제곱근편차(RMSE, Root mean square error)
 	+ 평균절대오차(MAE, Mean absolute error) 
@@ -60,11 +61,11 @@
 	+ 결정계수(R^2,Coefficient of determination)
 	+ 상관계수(Cor 혹은 R 이나 CC, Correlaction coefficient) 
 	+ MAD(Mean absolute deviation)
-    <details>
-        <summary>이미지/영상 성능평가지표</summary>
-    	    + HD(Hausdorff distance)
-    	    + AVD(Average hausdorff distance)
-    </details>
+	<details>
+		<summary>이미지/영상 성능평가지표</summary>
+		+ HD(Hausdorff distance)
+		+ AVD(Average hausdorff distance)
+	</details>
 </details>
 
 <details>
