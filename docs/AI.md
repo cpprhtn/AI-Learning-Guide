@@ -1,5 +1,55 @@
 ﻿## AI
 
+### 인공지능 개요
+
+인공지능은 사람의 지능을 필요로 하는 작업을 수행할 수 있는 컴퓨터 시스템을 지칭하는 말이다. 의사결정을 자동화 하는데 중점을 두는 면에서 머신러닝과 공통점을 가지나, 머신러닝은 인간의 행동과 관련이 없을 수 있다는 점에서 차이가 있다.
+
+
+
+##### 학습 자료 특성 기반의 분류
+
+<details>
+    <summary>지도학습</summary>
+</details>
+
+<details>
+    <summary>비지도학습</summary>
+</details>
+
+<details>
+    <summary>반지도학습</summary>
+</details>
+
+##### 인공지능 모델 특성 기반의 분류
+
+<details>
+    <summary>머신러닝</summary>
+</details>
+
+<details>
+    <summary>딥러닝</summary>
+
+    <details>
+        <summary>강화학습</summary>
+
+    </details>
+</details>
+
+
+### 
+
+### 성능평가지표
+
+<details>
+    <summary>수치형 성능평가지표</summary>
+
+</details>
+
+<details>
+    <summary>범주형 성능평가지표</summary>
+
+</details>
+
 ### Framework [Tensorflow(Keras)/Pytorch(Fast AI)/Matlab]
 - [pytorch vs tensorflow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
 - [MATLAB vs. Python: Which One Is Right for You?](https://www.mathworks.com/products/matlab/matlab-vs-python.html)
@@ -54,3 +104,5 @@
 - [Kubeflow를 통해 더 나은 AI 모델 서빙과 MLOps 실현하기](https://tv.naver.com/v/23650093)
 - [Open Neural Network Exchange (ONNX)](https://github.com/onnx/onnx)
 - [Airflow vs Kubeflow](https://hevodata.com/learn/kubeflow-vs-airflow/)
+
+
