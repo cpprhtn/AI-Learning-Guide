@@ -8,7 +8,7 @@
     * FPN
   * Loss
     * Focal Loss
-    * Lovasz-Softmax
+    * Lovasz-Softmax Loss
 * Image Captioning
 * Object Tracking
 
