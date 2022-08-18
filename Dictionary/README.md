@@ -27,6 +27,7 @@ AI에 쓰이는 단어들이 일반적인 영어랑 다른의미로 쓰이는 �
 |epoch||에포크||
 |feature||특징||
 |feature map||특징 맵||
+|Few-Shot Learning|FSL|퓨샷러닝||
 |filter||필터||
 |forward propagation||순전파||
 |fully-connected|FC|완전연결||
@@ -64,4 +65,3 @@ AI에 쓰이는 단어들이 일반적인 영어랑 다른의미로 쓰이는 �
 |weight||가중치||
 |weight initialization||가중치 초기화||
 |whitening||백색화||
-|Few-Shot Learning|FSL|퓨샷러닝||
