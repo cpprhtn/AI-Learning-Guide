@@ -18,6 +18,7 @@ AI에 쓰이는 단어들이 일반적인 영어랑 다른의미로 쓰이는 �
 |bayesian optimization||베이즈 최적화||
 |bias||편향||
 |computer vision|CV|컴퓨터 비전|[링크](./computer_vision.md)|
+|Continual Learning|||[링크](https://ffighting.tistory.com/entry/Incremental-Continual-learning-%EC%84%A4%EB%AA%85-%EC%84%B1%EB%8A%A5%EC%B8%A1%EC%A0%95%EB%B0%A9%EC%8B%9D-%EC%97%B0%EA%B5%AC%ED%9D%90%EB%A6%84)|
 |convolution||합성곱||
 |cross-correlation||교차상관관계||
 |cross entropy error|CEE|교차 엔트로피 오차||
@@ -37,6 +38,7 @@ AI에 쓰이는 단어들이 일반적인 영어랑 다른의미로 쓰이는 �
 |grid search||그리드 서치|
 |hyper parameter||하이퍼파라미터||
 |identity function||항등 함수|`activation function`|
+|Incremental Learning|||[링크](https://en.wikipedia.org/wiki/Incremental_learning)|
 |kernel||커널||
 |learning rate|lr|학습률||
 |mini batch||미니배치||
