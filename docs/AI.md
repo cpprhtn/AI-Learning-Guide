@@ -1,4 +1,4 @@
-﻿## 인공지능(AI, Artificial intelligence)
+## 인공지능(AI, Artificial intelligence)
 
 ### 인공지능 개요
 
@@ -165,5 +165,4 @@
 - [Kubeflow를 통해 더 나은 AI 모델 서빙과 MLOps 실현하기](https://tv.naver.com/v/23650093)
 - [Open Neural Network Exchange (ONNX)](https://github.com/onnx/onnx)
 - [Airflow vs Kubeflow](https://hevodata.com/learn/kubeflow-vs-airflow/)
-
-
+- [모두를 위한 MLOps](https://mlops-for-all.github.io/)
