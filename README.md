@@ -13,6 +13,8 @@ AI는 필연적으로 수학이 필요하게 됩니다.
 
 아래 제시된 수학을 공부하시는 것을 추천드립니다.
 
+![Mathematics Required for Machine Learning](/docs/math.png)
+
 - 선형대수학
 - 미적분
 - 통계
