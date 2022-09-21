@@ -13,4 +13,6 @@
 ### 통계
 - [공돌이의 수학정리노트 - 확률/통계](https://angeloyeo.github.io/2021/04/23/binomial_distribution.html)
 
+### 최적화수학
+- [모두를 위한 컨벡스 최적화](https://convex-optimization-for-all.github.io/) : 목차만 영어, 내용은 한글
 ### 그 외 참고자료
