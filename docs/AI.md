@@ -126,7 +126,7 @@
 
 ### Machine Learning
 - An Introduction to Statistical Learning [PDF - Second Edition](https://www.statlearning.com/)
-- PRML [PDF](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) [한글 번역](http://norman3.github.io/prml/)
+- PRML [PDF](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) [한글 번역](http://norman3.github.io/prml/) [Python Code](https://github.com/ctgk/PRML)
 - MML [PDF](https://mml-book.github.io/) 
 - Probabilistic Machine Learning: An Introduction (머피책 1판) [github page](https://probml.github.io/pml-book/book1.html) [PDF](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
 - Probabilistic Machine Learning: Advanced Topics (머피책 2판) [github page](https://probml.github.io/pml-book/book2.html) [PDF](https://github.com/probml/pml2-book/releases/tag/2022-07-29)
