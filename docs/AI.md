@@ -158,6 +158,7 @@
 - [PYTORCH로 딥러닝하기: 60분만에 끝장내기](https://tutorials.pytorch.kr/beginner/deep_learning_60min_blitz.html)
 - [파이토치 한번에 끝내기](https://www.youtube.com/watch?v=k60oT_8lyFw)
 - [Deep Learning-Ian Goodfellow](https://www.deeplearningbook.org/) [PDF](https://www.deeplearningbook.org/front_matter.pdf)
+- 딥 러닝을 이용한 자연어 처리 입문 [eBook](https://wikidocs.net/book/2155) [Github](https://github.com/ukairia777/tensorflow-nlp-tutorial)
 - [단단한 강화학습](http://www.yes24.com/Product/Goods/89605439?pid=123487&cosemkid=go15851280278657301&gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3dPo2djMqTHwBb1y8TDKRShLfXjeoxNsv2NEmRJDZ9YxKXixJy9-2oaAuqWEALw_wcB) 영어 원서도 추천
 - [UCL Course on RL](https://www.davidsilver.uk/teaching/)
 
