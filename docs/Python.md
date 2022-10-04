@@ -1,37 +1,36 @@
 ## Python
 
 ### Basic Python Grammar
-- [Á¡ÇÁ Åõ ÆÄÀÌ½ã](https://wikidocs.net/book/1)
-- [ÆÄÀÌ½ã ÃÊº¸ °­ÀÇ-³ªµµÄÚµù](https://youtube.com/playlist?list=PLMsa_0kAjjrd8hYYCwbAuDsXZmHpqHvlV)
+- [ì í”„ íˆ¬ íŒŒì´ì¬](https://wikidocs.net/book/1)
+- [íŒŒì´ì¬ ì´ˆë³´ ê°•ì˜-ë‚˜ë„ì½”ë”©](https://youtube.com/playlist?list=PLMsa_0kAjjrd8hYYCwbAuDsXZmHpqHvlV)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-- O'REILLY Introducing Python: Ã³À½ ½ÃÀÛÇÏ´Â ÆÄÀÌ½ã 2ÆÇ
-- [µ¥ÀÌÅÍ ºĞ¼®À» À§ÇÑ ÆÄÀÌ½ã](https://compmath.korea.ac.kr/appmath/Preliminaries.html)
+- O'REILLY Introducing Python: ì²˜ìŒ ì‹œì‘í•˜ëŠ” íŒŒì´ì¬ 2íŒ
+- [ë°ì´í„° ë¶„ì„ì„ ìœ„í•œ íŒŒì´ì¬](https://compmath.korea.ac.kr/appmath/Preliminaries.html)
 - [EliceAcademy](https://academy.elice.io/courses/all?category=6&price=25&programmingLanguage=18&tab=course)
-	- ¸ğµÎÀÇ ÆÄÀÌ½ã
-	- È¥ÀÚ °øºÎÇÏ´Â ÆÄÀÌ½ã
-	- ¿Ü ´Ù¼öÀÇ µµ¼­ ¹«·á Á¦°ø
+	- ëª¨ë‘ì˜ íŒŒì´ì¬
+	- í˜¼ì ê³µë¶€í•˜ëŠ” íŒŒì´ì¬
+	- ì™¸ ë‹¤ìˆ˜ì˜ ë„ì„œ ë¬´ë£Œ ì œê³µ
 
-### µ¥ÀÌÅÍ ºĞ¼® ¹× Á¶ÀÛ [[Numpy](#numpy)/[Pandas](#pandas)/[Scipy](#scipy)]
+### ë°ì´í„° ë¶„ì„ ë° ì¡°ì‘ [[Numpy](#numpy)/[Pandas](#pandas)/[Scipy](#scipy)]
 
 #### Numpy
-- [Numpy È¨ÆäÀÌÁö](https://numpy.org/learn/)
-- [Numpy ±âÃÊ: ¹è¿­ ¹× º¤ÅÍ°è»ê (ºí·Î±×)](https://compmath.korea.ac.kr/appmath/NumpyBasics.html)
+- [Numpy í™ˆí˜ì´ì§€](https://numpy.org/learn/)
+- [Numpy ê¸°ì´ˆ: ë°°ì—´ ë° ë²¡í„°ê³„ì‚° (ë¸”ë¡œê·¸)](https://compmath.korea.ac.kr/appmath/NumpyBasics.html)
 - [100 numpy exercises](https://github.com/rougier/numpy-100)
 
 #### Pandas
 - [Pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html)
-- [Pandas ½ÃÀÛÇÏ±â (ºí·Î±×)](https://compmath.korea.ac.kr/appmath/GettingStartPandas.html)
+- [Pandas ì‹œì‘í•˜ê¸° (ë¸”ë¡œê·¸)](https://compmath.korea.ac.kr/appmath/GettingStartPandas.html)
 - [100 pandas puzzles](https://github.com/ajcr/100-pandas-puzzles)
 
 #### Scipy
 - [SciPy User Guide](https://docs.scipy.org/doc/scipy/tutorial/index.html)
 - [SciPy Cookbook](https://scipy-cookbook.readthedocs.io/)
 
-### ½Ã°¢È­ [[Matplotlib](#matplotlib)/[Seaborn](#seaborn)]
+### ì‹œê°í™” [[Matplotlib](#matplotlib)/[Seaborn](#seaborn)]
 
 #### Matplotlib
 - [Matplotlib tutorials](https://matplotlib.org/stable/tutorials/index.html)
-- [ÆÄÀÌ½ãÀ¸·Î µ¥ÀÌÅÍ ½Ã°¢È­ÇÏ±â](https://wikidocs.net/92071)
-- [½Ã°¢È­ °ü·Ã ³»¿ë Âü°í](https://jehyunlee.github.io)
+- [íŒŒì´ì¬ìœ¼ë¡œ ë°ì´í„° ì‹œê°í™”í•˜ê¸°](https://wikidocs.net/92071)
 #### Seaborn
 - [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
