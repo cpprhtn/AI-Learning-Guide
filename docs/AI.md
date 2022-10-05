@@ -164,6 +164,7 @@
 - [단단한 강화학습](http://www.yes24.com/Product/Goods/89605439?pid=123487&cosemkid=go15851280278657301&gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3dPo2djMqTHwBb1y8TDKRShLfXjeoxNsv2NEmRJDZ9YxKXixJy9-2oaAuqWEALw_wcB) 영어 원서도 추천
 - [UCL Course on RL](https://www.davidsilver.uk/teaching/)
 - [CS234: Reinforcement Learning Winter 2022](https://web.stanford.edu/class/cs234/)
+- [Spinning Up in Deep RL!](https://spinningup.openai.com/en/latest/)
 
 ### ETC (ex: k8s/MLOps)
 - [Kubernetes tutorials](https://kubernetes.io/docs/tutorials/)
