@@ -159,8 +159,11 @@
 - [파이토치 한번에 끝내기](https://www.youtube.com/watch?v=k60oT_8lyFw)
 - [Deep Learning-Ian Goodfellow](https://www.deeplearningbook.org/) [PDF](https://www.deeplearningbook.org/front_matter.pdf)
 - 딥 러닝을 이용한 자연어 처리 입문 [eBook](https://wikidocs.net/book/2155) [Github](https://github.com/ukairia777/tensorflow-nlp-tutorial)
+
+### Reinforcement Learning
 - [단단한 강화학습](http://www.yes24.com/Product/Goods/89605439?pid=123487&cosemkid=go15851280278657301&gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3dPo2djMqTHwBb1y8TDKRShLfXjeoxNsv2NEmRJDZ9YxKXixJy9-2oaAuqWEALw_wcB) 영어 원서도 추천
 - [UCL Course on RL](https://www.davidsilver.uk/teaching/)
+- [CS234: Reinforcement Learning Winter 2022](https://web.stanford.edu/class/cs234/)
 
 ### ETC (ex: k8s/MLOps)
 - [Kubernetes tutorials](https://kubernetes.io/docs/tutorials/)
