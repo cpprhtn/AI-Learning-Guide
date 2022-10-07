@@ -27,7 +27,7 @@
 - [SciPy User Guide](https://docs.scipy.org/doc/scipy/tutorial/index.html)
 - [SciPy Cookbook](https://scipy-cookbook.readthedocs.io/)
 
-### 시각화 [[Matplotlib](#matplotlib)/[Seaborn](#seaborn)/Plotly(#plotly)]
+### 시각화 [[Matplotlib](#matplotlib)/[Seaborn](#seaborn)/[Plotly](#plotly)]
 
 #### Matplotlib
 - [Matplotlib tutorials](https://matplotlib.org/stable/tutorials/index.html)
