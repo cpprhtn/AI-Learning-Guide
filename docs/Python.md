@@ -3,6 +3,7 @@
 ### Basic Python Grammar
 - [점프 투 파이썬](https://wikidocs.net/book/1)
 - [파이썬 초보 강의-나도코딩](https://youtube.com/playlist?list=PLMsa_0kAjjrd8hYYCwbAuDsXZmHpqHvlV)
+- [5시간만 투자하면 개발자가 됩니다-조코딩](https://www.youtube.com/watch?v=KL1MIuBfWe0)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - O'REILLY Introducing Python: 처음 시작하는 파이썬 2판
 - [데이터 분석을 위한 파이썬](https://compmath.korea.ac.kr/appmath/Preliminaries.html)
@@ -20,6 +21,7 @@
 
 #### Pandas
 - [Pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html)
+- [Pandas 10분 완성](https://dataitgirls2.github.io/10minutes2pandas/)
 - [Pandas 시작하기 (블로그)](https://compmath.korea.ac.kr/appmath/GettingStartPandas.html)
 - [100 pandas puzzles](https://github.com/ajcr/100-pandas-puzzles)
 
