@@ -27,10 +27,13 @@
 - [SciPy User Guide](https://docs.scipy.org/doc/scipy/tutorial/index.html)
 - [SciPy Cookbook](https://scipy-cookbook.readthedocs.io/)
 
-### 시각화 [[Matplotlib](#matplotlib)/[Seaborn](#seaborn)]
+### 시각화 [[Matplotlib](#matplotlib)/[Seaborn](#seaborn)/Plotly(#plotly)]
 
 #### Matplotlib
 - [Matplotlib tutorials](https://matplotlib.org/stable/tutorials/index.html)
 - [파이썬으로 데이터 시각화하기](https://wikidocs.net/book/5011)
+- [Numpy-Plotting with matplotlib](https://pandas.pydata.org/pandas-docs/version/0.13/visualization.html)
 #### Seaborn
 - [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
+#### Plotly
+- [Plotly Docs](https://plotly.com/python/)
