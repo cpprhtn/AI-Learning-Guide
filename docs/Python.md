@@ -31,6 +31,6 @@
 
 #### Matplotlib
 - [Matplotlib tutorials](https://matplotlib.org/stable/tutorials/index.html)
-- [파이썬으로 데이터 시각화하기](https://wikidocs.net/92071)
+- [파이썬으로 데이터 시각화하기](https://wikidocs.net/book/5011)
 #### Seaborn
 - [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
