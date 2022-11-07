@@ -138,6 +138,7 @@
     - 혼자 공부하는 머신러닝 + 딥러닝
     - 모두의 딥러닝
     - 외 일부 도서 무료 제공
+- [ML, PCA, DL 등을 전반적으로 설명하는 외국 채널](https://www.youtube.com/c/joshstarmer/featured)
 - [xgoost](https://xgboost.readthedocs.io/en/stable/)
 - [CatBoost vs LightGBM vs XGBoost 비교 글](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
 
