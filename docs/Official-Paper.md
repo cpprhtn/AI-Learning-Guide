@@ -1,5 +1,6 @@
 ## Official Paper Review [Notes](#notes)
 - [paperswithcode](https://paperswithcode.com/methods) - AI 논문과 Offical Code들을 볼 수 있는 페이지.
+- [AI-Deadlin](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM) - Top 티어 저널의 컨퍼런스 정보 페이지.
 
 ### Computer Vision (CV)
 (파생된 모델들 정리필요)
