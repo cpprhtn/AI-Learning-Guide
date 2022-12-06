@@ -17,4 +17,5 @@
 - 
 ### 최적화수학
 - [모두를 위한 컨벡스 최적화](https://convex-optimization-for-all.github.io/) : 목차만 영어, 내용은 한글
+- [Convergence Theorems for Gradient Descent](https://gowerrobert.github.io/pdf/M2_statistique_optimisation/grad_conv.pdf)
 ### 그 외 참고자료
