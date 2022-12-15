@@ -33,7 +33,7 @@
 ### Recommender Systems
 
 ### Reinforcement Learning (RL)
-
+- [utilForever RL paper study](https://github.com/utilForever/rl-paper-study)
 ### Generative Adversarial Network (GAN)
 
 
