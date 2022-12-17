@@ -30,6 +30,7 @@
 - EfficientNetV2 (2021)
 ### Natural Language Processing (NLP)
 - [꼭 읽어야 할 NLP 논문 100가지](https://github.com/mhagiwara/100-nlp-papers)
+- [한국어 텍스트 마이닝을 위한 읽을거리들](https://github.com/lovit/textmining-tutorial_
 ### Recommender Systems
 
 ### Reinforcement Learning (RL)
