@@ -166,6 +166,7 @@
 - [UCL Course on RL](https://www.davidsilver.uk/teaching/)
 - [CS234: Reinforcement Learning Winter 2022](https://web.stanford.edu/class/cs234/)
 - [Spinning Up in Deep RL!](https://spinningup.openai.com/en/latest/)
+- [huggingface-RL course](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt)
 
 ### ETC (ex: k8s/MLOps)
 - [Kubernetes tutorials](https://kubernetes.io/docs/tutorials/)
