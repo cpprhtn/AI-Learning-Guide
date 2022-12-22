@@ -65,3 +65,4 @@
 - [Open Neural Network Exchange (ONNX)](https://github.com/onnx/onnx)
 - [Airflow vs Kubeflow](https://hevodata.com/learn/kubeflow-vs-airflow/)
 - [모두를 위한 MLOps](https://mlops-for-all.github.io/)
+- [해석 가능한 머신러닝](https://christophm.github.io/interpretable-ml-book/)
