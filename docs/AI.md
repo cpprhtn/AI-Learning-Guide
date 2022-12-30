@@ -41,6 +41,7 @@
 - [Andrew Ng Coursera 강의 정리](http://www.holehouse.org/mlclass/)
 - [CS231n(Convolutional Neural Networks for Visual Recognition)](https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 - [CS329S(Machine Learning Systems Design)](https://youtu.be/OEiNnfdxBRE)
+- [Deep Learning: CS 182 Spring 2021](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 - 밑바닥부터 시작하는 딥러닝 시리즈 (3편으로 구성)
 - [Do It! 딥러닝 입문](https://youtube.com/playlist?list=PLJN246lAkhQgbBx2Kag0wIZedn-P9KcH9)
 - [Pytorch로 시작하는 딥러닝 입문](https://wikidocs.net/book/2788)]
