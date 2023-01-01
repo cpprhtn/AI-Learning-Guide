@@ -2,32 +2,10 @@
 - [paperswithcode](https://paperswithcode.com/methods) - AI 논문과 Offical Code들을 볼 수 있는 페이지.
 - [AI-Deadlin](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM) - Top 티어 저널의 컨퍼런스 정보 페이지.
 
+
 ### Computer Vision (CV)
-(파생된 모델들 정리필요)
-- LeNet (1998)
-- AlexNet (2012)
-- GoogLeNet (2014)
-- VGG (2014)
-- ResNet (2015)
- - YOLO[You Only Look Once] (2015)
- - SSD (2015)
-- Inception-v3 (2015)
-- Inception-v4 (2016)
-- DenseNet (2016)
-- ResNeXt (2016)
-- SqueezeNet (2016)
-- Darknet-19 (2016)
-- Xception (2017)
-- MobileNetV1 (2017)
-- ShuffleNet (2017)
-- MobileNetV2 (2018)
-- Darknet-53 (2018)
-- EfficientNet (2019)
-- MobileNetV3 (2019)
-- HRNet (2019)
-- GhostNet (2019)
-- CSPDarknet53 (2020)
-- EfficientNetV2 (2021)
+
+
 ### Natural Language Processing (NLP)
 - [꼭 읽어야 할 NLP 논문 100가지](https://github.com/mhagiwara/100-nlp-papers)
 - [한국어 텍스트 마이닝을 위한 공부거리들](https://github.com/lovit/textmining-tutorial)
@@ -37,6 +15,8 @@
 - [utilForever RL paper study](https://github.com/utilForever/rl-paper-study)
 ### Generative Adversarial Network (GAN)
 
+### ETC
+- [딥러닝 논문 읽기 모임](https://github.com/Lilcob/-DL_PaperReadingMeeting?fbclid=IwAR1OC3O1RUcaucuPAIjyrpyAsoZ6Vb3ausCkpKfdCGqPNOvYqUzuIneqaCE)
 
 ## Notes
 ### [Top proceedings/journals (ML/DL)](https://scholar.google.com.sg/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence)

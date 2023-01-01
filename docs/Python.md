@@ -12,7 +12,7 @@
 	- 혼자 공부하는 파이썬
 	- 외 다수의 도서 무료 제공
 
-### 데이터 분석 및 조작 [[Numpy](#numpy)/[Pandas](#pandas)/[Scipy](#scipy)]
+### 데이터 분석 및 조작
 
 #### Numpy
 - [Numpy 홈페이지](https://numpy.org/learn/)
@@ -29,13 +29,15 @@
 - [SciPy User Guide](https://docs.scipy.org/doc/scipy/tutorial/index.html)
 - [SciPy Cookbook](https://scipy-cookbook.readthedocs.io/)
 
-### 시각화 [[Matplotlib](#matplotlib)/[Seaborn](#seaborn)/[Plotly](#plotly)]
+### 시각화
 
 #### Matplotlib
 - [Matplotlib tutorials](https://matplotlib.org/stable/tutorials/index.html)
 - [파이썬으로 데이터 시각화하기](https://wikidocs.net/book/5011)
 - [Numpy-Plotting with matplotlib](https://pandas.pydata.org/pandas-docs/version/0.13/visualization.html)
+
 #### Seaborn
 - [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
+
 #### Plotly
 - [Plotly Docs](https://plotly.com/python/)
