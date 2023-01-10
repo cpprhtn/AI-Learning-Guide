@@ -12,14 +12,15 @@
 
 
 ### Machine Learning
-- An Introduction to Statistical Learning [PDF - Second Edition](https://www.statlearning.com/)
+- 핸즈온 머신러닝 : 사이킷런, 케라스, 텐서플로 2를 활용한 머신러닝, 딥러닝 완벽 실무 2판 [Youtube](https://youtube.com/playlist?list=PLJN246lAkhQjX3LOdLVnfdFaCbGouEBeb)
+- 혼자 공부하는 머신러닝 + 딥러닝 [Youtube](https://youtube.com/playlist?list=PLJN246lAkhQjoU0C4v8FgtbjOIXxSs_4Q)
 - Pattern-Recognition-and-Machine-Learning (PRML-Bishop) [PDF](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) [한글 번역](http://norman3.github.io/prml/) [Python Code](https://github.com/ctgk/PRML)
+	- 패턴 인식과 머신러닝(제이펍 출판사) 한글 번역판 책도 존재
 - Mathematics for Machine Learning (MML) [PDF](https://mml-book.github.io/) 
 - Probabilistic Machine Learning: An Introduction (머피책 1판) [github page](https://probml.github.io/pml-book/book1.html) [PDF](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
 - Probabilistic Machine Learning: Advanced Topics (머피책 2판) [github page](https://probml.github.io/pml-book/book2.html) [PDF](https://github.com/probml/pml2-book/releases/tag/2022-07-29)
-- [핸즈온 머신러닝 : 사이킷런, 케라스, 텐서플로 2를 활용한 머신러닝, 딥러닝 완벽 실무 2판 (유튜브)](https://youtube.com/playlist?list=PLJN246lAkhQjX3LOdLVnfdFaCbGouEBeb)
-- [머신 러닝 교과서 3판 (유튜브)](https://youtube.com/playlist?list=PLJN246lAkhQiEc-QvvGzUneCWuRnCNKgU)
-- [혼자 공부하는 머신러닝 + 딥러닝 (유튜브)](https://youtube.com/playlist?list=PLJN246lAkhQjoU0C4v8FgtbjOIXxSs_4Q)
+- An Introduction to Statistical Learning [PDF - Second Edition](https://www.statlearning.com/)
+- 머신 러닝 교과서 3판 [Youtube](https://youtube.com/playlist?list=PLJN246lAkhQiEc-QvvGzUneCWuRnCNKgU)
 - [ML, PCA, DL 등을 전반적으로 설명하는 외국 채널](https://www.youtube.com/c/joshstarmer/featured)
 - [해석 가능한 머신러닝](https://christophm.github.io/interpretable-ml-book/)
 - [EliceAcademy](https://academy.elice.io/courses/all?category=7&category=9&price=25&tab=course)
@@ -47,7 +48,7 @@
 - [PYTORCH로 딥러닝하기: 60분만에 끝장내기](https://tutorials.pytorch.kr/beginner/deep_learning_60min_blitz.html)
 - [파이토치 한번에 끝내기](https://www.youtube.com/watch?v=k60oT_8lyFw)
 - 딥 러닝을 이용한 자연어 처리 입문 [eBook](https://wikidocs.net/book/2155) [Github](https://github.com/ukairia777/tensorflow-nlp-tutorial)
-
+- 케라스 창시자에게 배우는 딥러닝
 ### Reinforcement Learning
 - [단단한 강화학습](http://www.yes24.com/Product/Goods/89605439?pid=123487&cosemkid=go15851280278657301&gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3dPo2djMqTHwBb1y8TDKRShLfXjeoxNsv2NEmRJDZ9YxKXixJy9-2oaAuqWEALw_wcB) 영어 원서도 추천
 - [UCL Course on RL](https://www.davidsilver.uk/teaching/)
