@@ -8,8 +8,25 @@ AI에 쓰이는 단어들이 일반적인 영어랑 다른의미로 쓰이는 �
 
 |영어|준말|한글|부연 설명|
 |---|---|---|---|
+|accuracy|acc|정확도||
+|action||행동||
 |activation function||활성화 함수|[링크](./activation_function.md)|
+|active learning||액티브 러닝||
+|AdaGrad||||
 |affine transformation||아핀 변환||
+|agent||에이전트||
+|agglomerative clustering||병합 군집||
+|anomaly detection||이상치 탐지||
+|area under the PR curve|PR AUC|||
+|area under the ROC curve|AUC|||
+|artificial general intelligence|AGI|인공일반지능||
+|artificial intelligence|AI|인공지능||
+|attention||어텐션||
+|attribute||속성||
+|attribute sampling||속성 샘플링||
+|augmented reality|AR|증강 현실||
+|automation bias||자동화 편향||
+|average precision||평균 정밀도||
 |backbone||백본|[링크](./backbone.md)|
 |backpropagation||역전파||
 |batch||배치||
