@@ -15,6 +15,9 @@
 - [utilForever RL paper study](https://github.com/utilForever/rl-paper-study)
 ### Generative Adversarial Network (GAN)
 
+### Transformer
+- [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+
 ### ETC
 - [딥러닝 논문 읽기 모임](https://github.com/Lilcob/-DL_PaperReadingMeeting?fbclid=IwAR1OC3O1RUcaucuPAIjyrpyAsoZ6Vb3ausCkpKfdCGqPNOvYqUzuIneqaCE)
 
