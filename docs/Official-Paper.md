@@ -2,17 +2,18 @@
 - [paperswithcode](https://paperswithcode.com/methods) - AI 논문과 Offical Code들을 볼 수 있는 페이지.
 - [AI-Deadlin](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM) - Top 티어 저널의 컨퍼런스 정보 페이지.
 
-
 ### Computer Vision (CV)
-
 
 ### Natural Language Processing (NLP)
 - [꼭 읽어야 할 NLP 논문 100가지](https://github.com/mhagiwara/100-nlp-papers)
 - [한국어 텍스트 마이닝을 위한 공부거리들](https://github.com/lovit/textmining-tutorial)
+
 ### Recommender Systems
+- [Must-read papers on Recommender System](https://github.com/hongleizhang/RSPapers)
 
 ### Reinforcement Learning (RL)
 - [utilForever RL paper study](https://github.com/utilForever/rl-paper-study)
+
 ### Generative Adversarial Network (GAN)
 
 ### Transformer
