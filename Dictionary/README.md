@@ -8,7 +8,7 @@ AI에 쓰이는 단어들이 일반적인 영어랑 다른의미로 쓰이는 �
 
 |영어|준말|한글|부연 설명|
 |---|---|---|---|
-|accuracy|acc|정확도||
+|accuracy|ACC|정확도||
 |action||행동||
 |activation function||활성화 함수|[링크](./activation_function.md)|
 |active learning||액티브 러닝||
@@ -29,11 +29,23 @@ AI에 쓰이는 단어들이 일반적인 영어랑 다른의미로 쓰이는 �
 |average precision||평균 정밀도||
 |backbone||백본|[링크](./backbone.md)|
 |backpropagation||역전파||
+|bagging||배깅||
 |batch||배치||
 |batch normalization|BN|배치 정규화||
 |batch size||배치 사이즈||
-|bayesian optimization||베이즈 최적화||
+|Bayesian neural network||베이지안 신경망||
+|Bayesian optimization||베이즈 최적화||
+|Bellman equation||벨만 방정식||
+|Bidirectional Encoder Representations from Transformers|BERT|버트||
 |bias||편향||
+|bidirectional||양방향||
+|bidirectional language model||양방향 언어 모델||
+|binary classification||이진 분류||
+|binary condition||이진 조건||
+|boosting||부스팅||
+|bounding box||경계 상자||
+|broadcasting||브로드캐스팅||
+|bucketing||버케팅||
 |computer vision|CV|컴퓨터 비전|[링크](./computer_vision.md)|
 |Continual Learning|||[링크](https://ffighting.tistory.com/entry/Incremental-Continual-learning-%EC%84%A4%EB%AA%85-%EC%84%B1%EB%8A%A5%EC%B8%A1%EC%A0%95%EB%B0%A9%EC%8B%9D-%EC%97%B0%EA%B5%AC%ED%9D%90%EB%A6%84)|
 |convolution||합성곱||
