@@ -39,6 +39,7 @@
 #### Stanford Series
 - [CS230 (Deep Learning)](https://youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 - [CS182 (Deep Learning: Spring 2021)](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+- [CMU 11-785](https://www.youtube.com/playlist?list=PLp-0K3kfddPxRmjgjm0P1WT6H-gTqE8j9)
 - [CS329S (Machine Learning Systems Design)](https://youtu.be/OEiNnfdxBRE)
 - [CS231n (Convolutional Neural Networks for Visual Recognition)](https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 - [CS224d (Natural Language Processing with Deep Learning)](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
