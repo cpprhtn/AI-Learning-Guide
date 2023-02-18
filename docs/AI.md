@@ -22,7 +22,7 @@
 #### focused on mathematical theory
 - (*)Pattern-Recognition-and-Machine-Learning (PRML-Bishop) [PDF](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) [한글 번역](http://norman3.github.io/prml/) [Python Code](https://github.com/ctgk/PRML)
 	- 패턴 인식과 머신러닝(제이펍 출판사) 한글 번역판 책도 존재
-- (*)Mathematics for Machine Learning (MML) [PDF](https://mml-book.github.io/) 
+- (*)Mathematics for Machine Learning (MML) [PDF](https://mml-book.github.io/) [고려대 한글 자료](http://savanna.korea.ac.kr/wp/?page_id=605)
 - (*)Probabilistic Machine Learning: An Introduction (머피책 1판) [github page](https://probml.github.io/pml-book/book1.html) [PDF](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
 - Probabilistic Machine Learning: Advanced Topics (머피책 2판) [github page](https://probml.github.io/pml-book/book2.html) [PDF](https://github.com/probml/pml2-book/releases/tag/2022-07-29)
 - An Introduction to Statistical Learning [PDF - Second Edition](https://www.statlearning.com/)
