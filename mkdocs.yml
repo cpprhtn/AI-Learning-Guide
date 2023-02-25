@@ -1,0 +1,58 @@
+site_name: AI Learning Guide
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+  language: en
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: blue
+      accent: purple
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: blue
+      accent: lime
+repo_url: https://github.com/cpprhtn/AI-Learning-Guide
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/cpprhtn
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/cpprhtn
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/cpp_rhtn
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+copyright: |
+  &copy; <a href="https://github.com/cpprhtn" target"_blank" rel="noopener">cpprhtn</a>
