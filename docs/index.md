@@ -1,6 +1,6 @@
 # AI Learning Guide
 
-![AI Learning Guideline](/Guideline.png)
+![AI Learning Guideline](Guideline.png)
 ## Before You read this
 인공지능 관련 공부 자료들을 정리해둔 페이지입니다.
 
@@ -13,7 +13,7 @@ AI는 필연적으로 수학이 필요하게 됩니다.
 
 아래 제시된 수학을 공부하시는 것을 추천드립니다.
 
-![Mathematics Required for Machine Learning](/math.png)
+![Mathematics Required for Machine Learning](math.png)
 
 - 통계
 - 미적분
