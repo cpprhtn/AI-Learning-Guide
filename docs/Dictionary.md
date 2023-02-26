@@ -10,7 +10,7 @@ AI에 쓰이는 단어들이 일반적인 영어랑 다른의미로 쓰이는 �
 |---|---|---|---|
 |accuracy|ACC|정확도||
 |action||행동||
-|activation function||활성화 함수|[링크](./activation_function.md)|
+|activation function||활성화 함수||
 |active learning||액티브 러닝||
 |AdaGrad||||
 |affine transformation||아핀 변환||
@@ -27,7 +27,7 @@ AI에 쓰이는 단어들이 일반적인 영어랑 다른의미로 쓰이는 �
 |augmented reality|AR|증강 현실||
 |automation bias||자동화 편향||
 |average precision||평균 정밀도||
-|backbone||백본|[링크](./backbone.md)|
+|backbone||백본||
 |backpropagation||역전파||
 |bagging||배깅||
 |batch||배치||
@@ -56,7 +56,7 @@ AI에 쓰이는 단어들이 일반적인 영어랑 다른의미로 쓰이는 �
 |clipping||클리핑||
 |clustering||클러스터링||
 |collaborative filtering||협업 필터링||
-|computer vision|CV|컴퓨터 비전|[링크](./computer_vision.md)|
+|computer vision|CV|컴퓨터 비전||
 |confirmation bias||확증 편향||
 |confusion matrix||혼동 행렬||
 |Continual Learning|||[링크](https://ffighting.tistory.com/entry/Incremental-Continual-learning-%EC%84%A4%EB%AA%85-%EC%84%B1%EB%8A%A5%EC%B8%A1%EC%A0%95%EB%B0%A9%EC%8B%9D-%EC%97%B0%EA%B5%AC%ED%9D%90%EB%A6%84)|
@@ -88,12 +88,12 @@ AI에 쓰이는 단어들이 일반적인 영어랑 다른의미로 쓰이는 �
 |hyper parameter||하이퍼파라미터||
 |identity function||항등 함수|`activation function`|
 |imbalanced dataset||비대칭 데이터||
-|Incremental Learning|||[링크](https://en.wikipedia.org/wiki/Incremental_learning)|
+|Incremental Learning||||
 |kernel||커널||
 |learning rate|lr|학습률||
 |mini batch||미니배치||
 |momentum||모멘텀|`optimizer`|
-|natural language processing|NLP|자연어처리|[링크](./natural_language_processing.md)|
+|natural language processing|NLP|자연어처리||
 |normalization||정규화||
 |one-hot encoding||원-핫 인코딩||
 |optimization||최적화||
