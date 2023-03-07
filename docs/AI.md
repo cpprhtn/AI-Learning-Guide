@@ -73,6 +73,7 @@
 - [huggingface-RL course](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt)
 - [Deep Reinforcement Learning: CS 285 Fall 2021 (UC Berkeley)](https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH)
 - 파이썬과 케라스로 배우는 강화학습
+- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/ebook/the-book.html)
 
 ### ETC (ex: k8s/MLOps)
 - [Kubernetes tutorials](https://kubernetes.io/docs/tutorials/)
