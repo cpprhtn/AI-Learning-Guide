@@ -8,7 +8,7 @@
 - [Keras example](https://keras.io/examples/)
 - [Which is better for AI Python or R](https://dac.digital/which-is-better-for-ai-python-or-r/)
 - [파이토치 한국 사용자 모임](https://pytorch.kr/)
-- [Ray Framework](https://docs.ray.io/en/latest/cluster/index.html)
+- [Ray Framework](https://docs.ray.io/en/latest/index.html)
 - [딥러닝을 위해 어떤 GPU를 골라야 할까?](https://discuss.pytorch.kr/t/geeknews-gpu/962)
 
 
