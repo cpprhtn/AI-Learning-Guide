@@ -11,6 +11,7 @@
 
 ### Recommender Systems
 - [Must-read papers on Recommender System](https://github.com/hongleizhang/RSPapers)
+- [Datasets-for-Recommender-Systems](https://github.com/caserec/Datasets-for-Recommender-Systems)
 
 ### Reinforcement Learning (RL)
 - [utilForever RL paper study](https://github.com/utilForever/rl-paper-study)
