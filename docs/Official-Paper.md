@@ -21,6 +21,9 @@
 ### Transformer
 - [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
+### LLM
+- [Let's find out the latest and various LLM-related papers.](https://github.com/gyunggyung/MLLM-Papers)
+
 ### ETC
 - [딥러닝 논문 읽기 모임](https://github.com/Lilcob/-DL_PaperReadingMeeting?fbclid=IwAR1OC3O1RUcaucuPAIjyrpyAsoZ6Vb3ausCkpKfdCGqPNOvYqUzuIneqaCE)
 
