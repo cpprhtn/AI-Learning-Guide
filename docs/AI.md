@@ -84,4 +84,5 @@
 - [Airflow vs Kubeflow](https://hevodata.com/learn/kubeflow-vs-airflow/)
 - [모두를 위한 MLOps](https://mlops-for-all.github.io/)
 - [CSEP 590B Explainable AI](https://sites.google.com/cs.washington.edu/csep590b?pli=1)
+- [TinyML and Efficient Deep Learning Computing](https://www.youtube.com/playlist?list=PL80kAHvQbh-ocildRaxjjBy6MR1ZsNCU7)
 
