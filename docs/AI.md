@@ -18,6 +18,7 @@
 - 혼자 공부하는 머신러닝 + 딥러닝 [Youtube](https://youtube.com/playlist?list=PLJN246lAkhQjoU0C4v8FgtbjOIXxSs_4Q)
 - [ML, PCA, DL 등을 전반적으로 설명하는 외국 채널](https://www.youtube.com/c/joshstarmer/featured)
 - 머신 러닝 교과서 3판 [Youtube](https://youtube.com/playlist?list=PLJN246lAkhQiEc-QvvGzUneCWuRnCNKgU)
+- 생활코딩 머신러닝 [Youtube](https://www.youtube.com/playlist?list=PLuHgQVnccGMDy5oF7G5WYxLF3NCYhB9H9)
 
 #### focused on mathematical theory
 - (*)Pattern-Recognition-and-Machine-Learning (PRML-Bishop) [PDF](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) [한글 번역](http://norman3.github.io/prml/) [Python Code](https://github.com/ctgk/PRML)
