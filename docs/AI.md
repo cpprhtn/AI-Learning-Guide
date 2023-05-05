@@ -1,26 +1,33 @@
-## 인공지능(AI, Artificial intelligence)
+# 인공지능(AI, Artificial intelligence)
 
-### Framework
-- [pytorch vs tensorflow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
-- [MATLAB vs. Python: Which One Is Right for You?](https://www.mathworks.com/products/matlab/matlab-vs-python.html)
+## Framework
+- [PyTorch](https://pytorch.org/) [[Korean]](https://pytorch.kr/)
+- [Tensorflow](https://www.tensorflow.org) [[Korean]](https://www.tensorflow.org/?hl=ko)
+- [MATLAB](https://kr.mathworks.com/solutions/deep-learning/tutorials-examples.html)
+- [Ray](https://docs.ray.io/en/latest/index.html)
+
+### Framework tutorial
+- [PyTorch tutorial](https://tutorials.pytorch.kr/)
 - [Tensorflow tutorial guide](https://www.tensorflow.org/tutorials?hl=ko)
 - [Tensorflow example](https://github.com/tensorflow/examples)
 - [Keras example](https://keras.io/examples/)
+
+### Reference Materials for Choosing a Framework
+- [pytorch vs tensorflow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
+- [MATLAB vs. Python: Which One Is Right for You?](https://www.mathworks.com/products/matlab/matlab-vs-python.html)
 - [Which is better for AI Python or R](https://dac.digital/which-is-better-for-ai-python-or-r/)
-- [파이토치 한국 사용자 모임](https://pytorch.kr/)
-- [Ray Framework](https://docs.ray.io/en/latest/index.html)
 - [딥러닝을 위해 어떤 GPU를 골라야 할까?](https://discuss.pytorch.kr/t/geeknews-gpu/962)
 
 
-### Machine Learning
-#### focused on practice
+## Machine Learning
+### focused on practice
 - (*)핸즈온 머신러닝 : 사이킷런, 케라스, 텐서플로 2를 활용한 머신러닝, 딥러닝 완벽 실무 2판 [Youtube](https://youtube.com/playlist?list=PLJN246lAkhQjX3LOdLVnfdFaCbGouEBeb)
 - 혼자 공부하는 머신러닝 + 딥러닝 [Youtube](https://youtube.com/playlist?list=PLJN246lAkhQjoU0C4v8FgtbjOIXxSs_4Q)
 - [ML, PCA, DL 등을 전반적으로 설명하는 외국 채널](https://www.youtube.com/c/joshstarmer/featured)
 - 머신 러닝 교과서 3판 [Youtube](https://youtube.com/playlist?list=PLJN246lAkhQiEc-QvvGzUneCWuRnCNKgU)
 - 생활코딩 머신러닝 [Youtube](https://www.youtube.com/playlist?list=PLuHgQVnccGMDy5oF7G5WYxLF3NCYhB9H9)
 
-#### focused on mathematical theory
+### focused on mathematical theory
 - (*)Pattern-Recognition-and-Machine-Learning (PRML-Bishop) [PDF](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) [한글 번역](http://norman3.github.io/prml/) [Python Code](https://github.com/ctgk/PRML)
 	- 패턴 인식과 머신러닝(제이펍 출판사) 한글 번역판 책도 존재
 - (*)Mathematics for Machine Learning (MML) [PDF](https://mml-book.github.io/) [고려대 한글 자료](http://savanna.korea.ac.kr/wp/?page_id=605)
@@ -29,15 +36,15 @@
 - An Introduction to Statistical Learning [PDF - Second Edition](https://www.statlearning.com/)
 - [해석 가능한 머신러닝](https://christophm.github.io/interpretable-ml-book/)
 
-#### etc.
+### etc.
 - [EliceAcademy](https://academy.elice.io/courses/all?category=7&category=9&price=25&tab=course)
     - Do it! 딥러닝 입문
     - 혼자 공부하는 머신러닝 + 딥러닝
     - 모두의 딥러닝
     - 외 일부 도서 무료 제공
 
-### Deep Learning
-#### Stanford Series
+## Deep Learning
+### Stanford Series
 - [CS230 (Deep Learning)](https://youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 - [CS182 (Deep Learning: Spring 2021)](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 - [CMU 11-785](https://www.youtube.com/playlist?list=PLp-0K3kfddPxRmjgjm0P1WT6H-gTqE8j9)
@@ -45,7 +52,7 @@
 - [CS231n (Convolutional Neural Networks for Visual Recognition)](https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 - [CS224d (Natural Language Processing with Deep Learning)](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
-#### Sung Kim Series
+### Sung Kim Series
 - [Sung Kim 모두를 위한 머신러닝/딥러닝 강의](http://hunkim.github.io/ml/)
 	- [모두를 위한 딥러닝 강좌 시즌 1](https://youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
     - [모두를 위한 RL강좌](https://youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
@@ -54,7 +61,7 @@
 - [Andrew Ng Coursera 강의 정리](http://www.holehouse.org/mlclass/)
 
 
-#### Books
+### Books
 - (*)밑바닥부터 시작하는 딥러닝 시리즈 (3편으로 구성)
 - (*)[Deep Learning-Ian Goodfellow](https://www.deeplearningbook.org/) [PDF](https://www.deeplearningbook.org/front_matter.pdf)
 - [Do It! 딥러닝 입문](https://youtube.com/playlist?list=PLJN246lAkhQgbBx2Kag0wIZedn-P9KcH9)
@@ -66,7 +73,7 @@
 - 딥 러닝을 이용한 자연어 처리 입문 [eBook](https://wikidocs.net/book/2155) [Github](https://github.com/ukairia777/tensorflow-nlp-tutorial)
 
 
-### Reinforcement Learning
+## Reinforcement Learning
 - (*)[단단한 강화학습](http://www.yes24.com/Product/Goods/89605439?pid=123487&cosemkid=go15851280278657301&gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3dPo2djMqTHwBb1y8TDKRShLfXjeoxNsv2NEmRJDZ9YxKXixJy9-2oaAuqWEALw_wcB) 영어 원서도 추천
 - (*)[CS234: Reinforcement Learning Winter 2022](https://web.stanford.edu/class/cs234/)
 - [UCL Course on RL](https://www.davidsilver.uk/teaching/)
@@ -76,7 +83,7 @@
 - 파이썬과 케라스로 배우는 강화학습
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/ebook/the-book.html)
 
-### ETC (ex: k8s/MLOps)
+## ETC (ex: k8s/MLOps)
 - [Kubernetes tutorials](https://kubernetes.io/docs/tutorials/)
 - [MLOps 정리 노션](http://bit.ly/zzsza_links)
 - [MLOps Contents 모음](https://github.com/MLOpsKR/Awesome-MLOps-Contents)
