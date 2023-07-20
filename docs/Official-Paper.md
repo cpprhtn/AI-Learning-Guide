@@ -2,6 +2,7 @@
 - [paperswithcode](https://paperswithcode.com/methods) - AI 논문과 Offical Code들을 볼 수 있는 페이지.
 - [openreview](https://openreview.net/) - 심사중인 논문, 리뷰 및 피드백을 볼 수 있는 페이지.
 - [AI-Deadlin](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM) - Top 티어 저널의 컨퍼런스 정보 페이지.
+- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
 ## Computer Vision (CV)
 
