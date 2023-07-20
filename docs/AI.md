@@ -93,4 +93,5 @@
 - [모두를 위한 MLOps](https://mlops-for-all.github.io/)
 - [CSEP 590B Explainable AI](https://sites.google.com/cs.washington.edu/csep590b?pli=1)
 - [TinyML and Efficient Deep Learning Computing](https://www.youtube.com/playlist?list=PL80kAHvQbh-ocildRaxjjBy6MR1ZsNCU7)
+- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 
